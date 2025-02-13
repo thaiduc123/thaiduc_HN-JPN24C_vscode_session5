@@ -1,0 +1,56 @@
+*{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-color: rgb(210, 210, 210);
+    padding: 10px;
+    margin: 10px;
+}
+table{
+    width: 100%;
+    background-color: rgb(226, 225, 225);
+
+}
+.main{
+    background-color: rgb(61, 125, 255);
+    color: white;
+}
+.second{
+    background-color: white;
+}
+.id{
+    width: 4%;
+}
+.username{
+    width: 35%;
+}
+.role{
+    width: 20%;
+}
+.role{
+    width: 20%;
+}
+.view{
+    background-color: green;
+    border-color: green;
+    border-style: solid;
+    color: white;
+    padding: 5px;
+}
+.update{
+    background-color: yellow;
+    border-color: yellow;
+    border-style: solid;
+    color: black;
+    padding: 5px;
+}
+.delete{
+    background-color: tomato;
+    border-color: tomato;
+    border-style: solid;
+    color: white;
+    padding: 5px;
+}
